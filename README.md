@@ -1,2 +1,3 @@
-# Placement-Portal
-A job application management system built with React.js and Firebase, used by 200+ students.
+# 🎓 Placement Portal
+
+A React.js + Firebase-based portal to track job applications and upload resumes.
